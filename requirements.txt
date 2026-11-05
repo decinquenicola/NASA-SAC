@@ -1,0 +1,15 @@
+# Core Matematico & Routing (ARES-OP)
+numpy
+scipy
+scikit-image
+ortools
+
+# Analisi Geospaziale e GIS
+rasterio
+shapely
+
+# Visualizzazione e Web Dashboard (fasi successive)
+streamlit
+pydeck
+plotly
+
